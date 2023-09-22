@@ -1,5 +1,5 @@
 package co.edu.uniandes.dse.parcial1.services;
 
-public class CascaraService {
-
+public class HabitacionService {
+    
 }
